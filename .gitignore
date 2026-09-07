@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*-output/
+invoice-output/
+invoices.csv
+.env
